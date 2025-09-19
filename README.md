@@ -99,10 +99,19 @@ mousefinancas-php/
 
  Modo escuro/claro
 
+
+👨‍💻 Professores SENAI:
+Este projeto foi pedido e orientado pelos professores:
+
+Luis Felipe Cardozo
+
+Lucas Machado
+
 👨‍💻 Autores
 Este projeto foi desenvolvido pelos alunos:
 
 Davi de Assis Fabricio
 
 Vinicius Queiroz
+
 
