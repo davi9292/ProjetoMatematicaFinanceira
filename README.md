@@ -16,7 +16,6 @@ Inclui funcionalidades de **gerenciamento de despesas**, **simulações financei
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" width="100" alt="Chart.js"/>
 </p>
 
 ---
@@ -106,3 +105,4 @@ Este projeto foi desenvolvido pelos alunos:
 Davi de Assis Fabricio
 
 Vinicius Queiroz
+
